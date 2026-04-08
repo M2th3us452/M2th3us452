@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Fala, eu sou Matheus
 
-<!--
-**M2th3us452/M2th3us452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em automação com Python  
+🤖 Criação de bots e sistemas automatizados  
+📊 Web scraping e coleta de dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+🔹 Bot de Ofertas Telegram  
+- Automação de busca de produtos  
+- Integração com Telegram API  
+- Envio automático de promoções  
+
+---
+
+## 🧠 Tecnologias
+
+- Python  
+- Selenium  
+- APIs  
+- Automação  
+
+---
+
+## 📈 Objetivo
+
+Crescer na área de tecnologia criando soluções reais e automatizadas.
