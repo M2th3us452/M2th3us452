@@ -6,19 +6,9 @@
 
 ---
 
-## 🚀 Projetos
-
-🔹 Bot de Ofertas Telegram  
-- Automação de busca de produtos  
-- Integração com Telegram API  
-- Envio automático de promoções  
-
----
-
 ## 🧠 Tecnologias
 
-- Python  
-- Selenium  
+- Python    
 - APIs  
 - Automação  
 
